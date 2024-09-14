@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Inlämningsuppgift_2_OOP</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\yonis\OneDrive\Inlämingsuppgifter\Inlämningsuppgift OOP ARV\Inlämningsuppgift 2 4 olika OOP i samma mapp.cs" Link="Inlämningsuppgift 2 4 olika OOP i samma mapp.cs" />
+  </ItemGroup>
+
+</Project>
